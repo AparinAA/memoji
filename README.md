@@ -1,4 +1,4 @@
-## memoji
+## memoji https://aparinaa.github.io/memoji/
 
 A Memoji game. The game using to train a memory.
 
